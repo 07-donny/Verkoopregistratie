@@ -1,0 +1,48 @@
+C:\Users\Donny\source\repos\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.csprojResolveAssemblyReference.cache
+C:\Users\Donny\source\repos\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.Form1.resources
+C:\Users\Donny\source\repos\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.Properties.Resources.resources
+C:\Users\Donny\source\repos\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.csproj.GenerateResource.cache
+C:\Users\Donny\source\repos\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.csproj.CoreCompileInputs.cache
+C:\Users\Donny\source\repos\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\VerkoopDB.mdf
+C:\Users\Donny\source\repos\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\VerkoopDB_log.ldf
+C:\Users\Donny\source\repos\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\Verkoopregistratie_Donny.exe.config
+C:\Users\Donny\source\repos\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\Verkoopregistratie_Donny.exe
+C:\Users\Donny\source\repos\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\Verkoopregistratie_Donny.pdb
+C:\Users\Donny\source\repos\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.exe
+C:\Users\Donny\source\repos\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.pdb
+G:\Program Files (x86)\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\VerkoopDB.mdf
+G:\Program Files (x86)\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\VerkoopDB_log.ldf
+G:\Program Files (x86)\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\Verkoopregistratie_Donny.exe.config
+G:\Program Files (x86)\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\Verkoopregistratie_Donny.exe
+G:\Program Files (x86)\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\Verkoopregistratie_Donny.pdb
+G:\Program Files (x86)\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.csprojAssemblyReference.cache
+G:\Program Files (x86)\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.Form1.resources
+G:\Program Files (x86)\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.Properties.Resources.resources
+G:\Program Files (x86)\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.csproj.GenerateResource.cache
+G:\Program Files (x86)\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.csproj.CoreCompileInputs.cache
+G:\Program Files (x86)\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.exe
+G:\Program Files (x86)\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.pdb
+C:\Users\Donny\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\VerkoopDB.mdf
+C:\Users\Donny\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\VerkoopDB_log.ldf
+C:\Users\Donny\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\Verkoopregistratie_Donny.exe.config
+C:\Users\Donny\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\Verkoopregistratie_Donny.exe
+C:\Users\Donny\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\Verkoopregistratie_Donny.pdb
+C:\Users\Donny\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.csprojResolveAssemblyReference.cache
+C:\Users\Donny\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.Form1.resources
+C:\Users\Donny\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.Properties.Resources.resources
+C:\Users\Donny\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.csproj.GenerateResource.cache
+C:\Users\Donny\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.csproj.CoreCompileInputs.cache
+C:\Users\Donny\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.exe
+C:\Users\Donny\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.pdb
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\VerkoopDB.mdf
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\VerkoopDB_log.ldf
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\Verkoopregistratie_Donny.exe.config
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\Verkoopregistratie_Donny.exe
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\bin\Debug\Verkoopregistratie_Donny.pdb
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.csprojAssemblyReference.cache
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.Form1.resources
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.Properties.Resources.resources
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.csproj.GenerateResource.cache
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.csproj.CoreCompileInputs.cache
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.exe
+C:\Users\dm94\Google Drive\_Studie\_School\_Repos\C#\Verkoopregistratie_Donny\Verkoopregistratie_Donny\obj\Debug\Verkoopregistratie_Donny.pdb
